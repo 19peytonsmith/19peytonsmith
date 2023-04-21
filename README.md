@@ -1,4 +1,6 @@
-## I'm a Computer Engineering student at FSU with a passion for software development. My current area of interest lies in full-stack app development as a whole, and I'm committed to continuously learning and mastering new technologies along the way!
+## Hi! :wave:
+
+My name is Peyton, I'm a Computer Engineering student at FSU with a passion for software development. My current area of interest lies in full-stack app development as a whole, and I'm committed to continuously learning and mastering new technologies along the way!
 
 ### Languages
 
