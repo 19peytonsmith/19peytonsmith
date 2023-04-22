@@ -27,6 +27,7 @@ My name is Peyton, I'm a Computer Engineering student at FSU with a passion for 
 ### Notable Projects
 
 [![](https://img.shields.io/badge/-%20My%20Website-000)](https://github.com/19peytonsmith/19peytonsmith.github.io/)
+[![](https://img.shields.io/badge/-%20Mouthpiece%20Social%20Media%20App-000)](https://web1.eng.famu.fsu.edu/ece/senior_design/2023/team305/index.html)
 [![](https://img.shields.io/badge/-%20Zillow%20Guessing%20Game-000)](https://github.com/19peytonsmith/Zillow-Project/)
 [![](https://img.shields.io/badge/-%20C%23%20eCommerce%20Full%20Stack%20Application-000)](https://github.com/19peytonsmith/Zillow-Project/)
 [![](https://img.shields.io/badge/-%20SQL%20Database%20Multiplayer%20Game%20Architecture-000)](https://github.com/19peytonsmith/Zillow-Project/)
