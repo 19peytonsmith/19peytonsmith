@@ -23,6 +23,7 @@ My name is Peyton, I'm an FSU Computer Engineering graduate with a passion for s
 ![mySQL](https://img.shields.io/badge/-mySQL-000?&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Jinja](https://img.shields.io/badge/-Jinja-000?&logo=jinja)
+![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
 
 ### Notable Projects
 
