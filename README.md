@@ -7,6 +7,7 @@ My name is Peyton, I'm an FSU Computer Engineering graduate with a passion for s
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=ruby&logoColor=red)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -18,12 +19,14 @@ My name is Peyton, I'm an FSU Computer Engineering graduate with a passion for s
 
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-000?&logo=rubyonrails&logoColor=red)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 ![mySQL](https://img.shields.io/badge/-mySQL-000?&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Jinja](https://img.shields.io/badge/-Jinja-000?&logo=jinja)
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
 ### Notable Projects
 
