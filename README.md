@@ -1,6 +1,6 @@
 ## Hi! :wave:
 
-My name is Peyton, I'm an FSU Computer Engineering graduate with a passion for software development. My current area of interest lies in full-stack app development with hands-on work experience using Ruby on Rails, and I'm committed to continuously learning and mastering new technologies along the way!
+An FSU Computer Engineering graduate passionate about full-stack development. I have hands-on experience with .NET and Ruby on Rails, building scalable web apps and CI/CD pipelines. I'm driven by clean code, strong UX, and continuous learning across the software stack.
 
 ### Languages
 
