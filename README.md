@@ -1,6 +1,6 @@
 ## Hi! :wave:
 
-An FSU Computer Engineering graduate passionate about full-stack development. I have hands-on experience with .NET and Ruby on Rails, building scalable web apps and CI/CD pipelines. I'm driven by clean code, strong UX, and continuous learning across the software stack.
+I'm an FSU Computer Engineering graduate passionate about full-stack development. I have hands-on experience with .NET and Ruby on Rails, building scalable web apps and CI/CD pipelines. I'm driven by clean code, strong UX, and continuous learning across the software stack.
 
 ### Languages
 
